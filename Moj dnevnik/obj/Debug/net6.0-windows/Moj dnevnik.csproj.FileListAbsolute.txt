@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\bin\Debug\net6.0-windows\Moj dnevnik.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\bin\Debug\net6.0-windows\Moj dnevnik.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\bin\Debug\net6.0-windows\Moj dnevnik.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\bin\Debug\net6.0-windows\Moj dnevnik.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\bin\Debug\net6.0-windows\Moj dnevnik.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\obj\Debug\net6.0-windows\Moj dnevnik.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\obj\Debug\net6.0-windows\Moj_dnevnik.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\obj\Debug\net6.0-windows\Moj dnevnik.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\obj\Debug\net6.0-windows\Moj dnevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\obj\Debug\net6.0-windows\Moj dnevnik.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\obj\Debug\net6.0-windows\Moj dnevnik.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\obj\Debug\net6.0-windows\Moj dnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\obj\Debug\net6.0-windows\Moj dnevnik.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\obj\Debug\net6.0-windows\refint\Moj dnevnik.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\obj\Debug\net6.0-windows\Moj dnevnik.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\obj\Debug\net6.0-windows\Moj dnevnik.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Moj dnevnik\Moj dnevnik\obj\Debug\net6.0-windows\ref\Moj dnevnik.dll
