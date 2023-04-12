@@ -1,0 +1,58 @@
+
+------------------
+Datum: utorak, 11. april 2023.
+
+Opis dnevnih aktivnosti:
+
+08:00 - prva aktivnost
+09:00 - 
+10:00 - 
+11:00 - 
+12:00 - rucak
+13:00 - 
+14:00 - 
+15:00 - 
+16:00 - 
+17:00 - 
+18:00 - 
+19:00 - 
+20:00 - poslednja aktivnost
+21:00 - 
+------------------
+Datum: subota, 15. april 2023.
+
+Opis dnevnih aktivnosti:
+
+08:00 - 
+09:00 - 
+10:00 - dorucak
+11:00 - 
+12:00 - 
+13:00 - setnja
+14:00 - 
+15:00 - 
+16:00 - 
+17:00 - 
+18:00 - rucak
+19:00 - 
+20:00 - 
+21:00 - 
+------------------
+Datum: petak, 28. april 2023.
+
+Opis dnevnih aktivnosti:
+
+08:00 - 
+09:00 - dorucak
+10:00 - 
+11:00 - 
+12:00 - 
+13:00 - citanje 
+14:00 - 
+15:00 - 
+16:00 - 
+17:00 - 
+18:00 - setnja
+19:00 - 
+20:00 - 
+21:00 - 
